@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "image": "trump.jpg"
+    },
+    {
+      "id": 2,
+      "image": "obama.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "clinton.jpg"
+    },
+    {
+      "id": 4,
+      "image": "bush2.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "bush1.jpg"
+    },
+    {
+      "id": 6,
+      "image": "dwight.jpg"
+    },
+    {
+      "id": 7,
+      "image": "ford.jpg"
+    },
+    {
+      "id": 8,
+      "image": "carter.jpg"
+    },
+    {
+      "id": 9,
+      "image": "kennedy.jpg"
+    },
+    {
+      "id": 10,
+      "image": "johnson.jpg"
+    },
+    {
+      "id": 11,
+      "image": "nixon.jpg"
+    },
+    {
+      "id": 12,
+      "image": "reagan.jpg"
+    },
+    {
+      "id": 13,
+      "image": "truman.jpg"
+    }
+  ]
+  
